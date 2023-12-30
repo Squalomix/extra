@@ -1,4 +1,4 @@
-# We also sequence these genomes
+# We also sequence these genomes from non-chondrichthyan taxa
 Non-chondrichthyan species chosen for whole genome sequencing at Squalomix
 
 
