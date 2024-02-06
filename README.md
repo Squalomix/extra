@@ -1,6 +1,10 @@
 # We also sequence these genomes from non-chondrichthyan taxa
-Non-chondrichthyan species chosen for whole genome sequencing at Squalomix
 
+## Data Use Policies
+
+As forumated by the [Vertebrate Genomes Project (VGP)](https://genome10k.ucsc.edu/data-use-policies/), we genome asssembly producers hold the right to present the results of analyses using the unpublished genome assemblies listed below earlier than other parties. Please be sure to consult Shigehiro Kuraku if you are interested in using the genome assemblies listed below as 'in prep.'.
+
+## Non-chondrichthyan species chosen for whole genome sequencing at Squalomix
 
 | Species |Common name|Technology|Publication|
 |----|----|----|----|
