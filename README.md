@@ -23,4 +23,4 @@ After our fundamental analysis on a non-phased assembly, we have made haplotype-
 
 ### Geotria australis and Mordacia mordax
 
-We are preparing to publish our molecular evolutionary analyses using these assemblies, and the Data Use Policies strictly applies to them.
+We are preparing to publish our molecular evolutionary analyses using these assemblies, and the above-mentioned Data Use Policies strictly applies to them.
