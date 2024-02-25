@@ -16,10 +16,11 @@ Some comments about the status and details of the individual assemblies are incl
 | *Halichoeres trimaculatus*| Threespot wrasse| PacBio HiFi + Hi-C | [Nozu et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.09.545663v3)|
 | *Paroedura picta* | Madagascar ground gecko | PacBio HiFi + Hi-C ||
 
-# Cololabis saira
+### Cololabis saira
 
 After our fundamental analysis on a non-phased assembly, we have made haplotype-phased assemblies ('hap1' and 'hap2') with hifiasm and YaHS, which will be released soon in NCBI.
 
-# Geotria australis and Mordacia mordax
+
+### Geotria australis and Mordacia mordax
 
 We are preparing to publish our molecular evolutionary analyses using these assemblies, and the Data Use Policies strictly applies to them.
