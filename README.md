@@ -6,6 +6,8 @@ As forumated by the [Vertebrate Genomes Project (VGP)](https://genome10k.ucsc.ed
 
 ## Non-chondrichthyan species chosen for whole genome sequencing at Squalomix
 
+Some comments about the status and details of the individual assemblies are included below the table.
+
 | Species |Common name|Technology|Publication|
 |----|----|----|----|
 | *Geotria australis* | pouched lamprey | illumina short read + mate-pair + Hi-C | in prep. |
@@ -13,3 +15,11 @@ As forumated by the [Vertebrate Genomes Project (VGP)](https://genome10k.ucsc.ed
 | *Cololabis saira* | Pacific saury | PacBio HiFi + Hi-C | [Sato et al., 2024, in press](https://www.biorxiv.org/content/10.1101/2023.10.16.562003v1.full) |
 | *Halichoeres trimaculatus*| Threespot wrasse| PacBio HiFi + Hi-C | [Nozu et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.09.545663v3)|
 | *Paroedura picta* | Madagascar ground gecko | PacBio HiFi + Hi-C ||
+
+# Cololabis saira
+
+After our fundamental analysis on a non-phased assembly, we have made haplotype-phased assemblies ('hap1' and 'hap2') with hifiasm and YaHS, which will be released soon in NCBI.
+
+# Geotria australis and Mordacia mordax
+
+We are preparing to publish our molecular evolutionary analyses using these assemblies, and the Data Use Policies strictly applies to them.
