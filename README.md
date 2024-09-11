@@ -18,7 +18,7 @@ Some comments about the status and details of the individual assemblies are incl
 
 ### Cololabis saira
 
-After our fundamental analysis on a non-phased assembly ([Sato et al., 2024](https://academic.oup.com/dnaresearch/article/31/2/dsae004/7623430)), we have made haplotype-phased assemblies ('hap1' and 'hap2') with hifiasm and YaHS, which have been registered under the [BioProject PRJNA1104577](https://www.ncbi.nlm.nih.gov/bioproject/1104577) and will be released soon in NCBI (as of May 24, 2024). Those assemblies underwent some manual interventions after computation with YaHS, and we recognize some discrepancies in chromosomal organization between the 'hap1' and 'hap2', which will be amended by our future effort.
+After our fundamental analysis on a non-phased assembly ([Sato et al., 2024](https://academic.oup.com/dnaresearch/article/31/2/dsae004/7623430)), we have made haplotype-phased assemblies ('hap1' and 'hap2') with hifiasm and YaHS, which are available have been registered under the [BioProject PRJNA1104577](https://www.ncbi.nlm.nih.gov/bioproject/1104577) and available in NCBI (as of September 11, 2024). Those assemblies underwent some manual interventions after computation with YaHS, and we recognize some discrepancies in chromosomal organization between the 'hap1' and 'hap2', which will be amended by our future effort.
 
 
 ### Geotria australis and Mordacia mordax
