@@ -20,7 +20,7 @@ Some comments about the status and details of the individual assemblies are incl
 
 ### Coturnix japonica
 
-An improved chromosome-scale genome assembly will be produced by collaborating with Prof. Nishijima at Avian BioScience Research Center of Nagoya University who conducts [National BioResource Project (NBRP) for chicken and quail under MEXT, Japan](https://www.agr.nagoya-u.ac.jp/~nbrp/en/organiztion/index.html).
+An improved chromosome-scale genome assembly will be produced by collaborating with Prof. Nishijima at Avian Bioscience Research Center of Nagoya University who conducts [National BioResource Project (NBRP) for chicken and quail under MEXT, Japan](https://www.agr.nagoya-u.ac.jp/~nbrp/en/organiztion/index.html).
 
 ### Nothobranchius furzeri
 
