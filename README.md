@@ -20,11 +20,11 @@ Some comments about the status and details of the individual assemblies are incl
 
 ### Coturnix japonica
 
-An improved chromosome-scale genome assembly will be produced by collaborating with Prof. Nishijima at Nagoya University who conducts National BioResource Project (NBRP) for chicken and quail under MEXT, Japan.
+An improved chromosome-scale genome assembly will be produced by collaborating with Prof. Nishijima at Nagoya University who conducts [National BioResource Project (NBRP) for chicken and quail under MEXT, Japan](https://www.agr.nagoya-u.ac.jp/~nbrp/en/organiztion/index.html).
 
 ### Nothobranchius furzeri
 
-Nothobranchius furzeri is known as African turquoise killifish and is an excellent model organism for aging study, having the shortest captive lifespan among vertebrates and showing highly similar aging phenotypes to humans. In collaboration with Prof. Tohru Ishitani at RIMD, Osaka University, we are working for genome assembly improvement of this species, and the first product from this collaboration will be released soon from NCBI. 
+*Nothobranchius furzeri* is known as African turquoise killifish and is an excellent model organism for aging study, having the shortest captive lifespan among vertebrates and showing highly similar aging phenotypes to humans. In collaboration with [Prof. Tohru Ishitani at RIMD, Osaka University](http://www.biken.osaka-u.ac.jp/en/laboratories/detail/52), we are working for genome assembly improvement of this species, and the first product from this collaboration will be released soon from NCBI. 
 
 ### Cololabis saira
 
