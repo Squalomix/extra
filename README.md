@@ -18,7 +18,7 @@ Some comments about the status and details of the individual assemblies are incl
 | *Geotria australis* | pouched lamprey | illumina short read + mate-pair + Hi-C | in prep. |
 | *Mordacia mordax* | southern lamprey | illumina short read + mate-pair + Hi-C | in prep. |
 | *Cololabis saira* | Pacific saury | PacBio HiFi + Hi-C | [Sato et al., 2024](https://academic.oup.com/dnaresearch/article/31/2/dsae004/7623430) |
-| *Halichoeres trimaculatus*| Threespot wrasse| PacBio HiFi + Hi-C | [Nozu et al., bioRxiv](https://www.biorxiv.org/content/10.1101/2023.07.09.545663v3)|
+| *Halichoeres trimaculatus*| Threespot wrasse| PacBio HiFi + Hi-C | [Nozu et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/gtc.13166)|
 | *Paroedura picta* | Madagascar ground gecko | PacBio HiFi + Hi-C ||
 | *Coturnix japonica* | Japanese quail | PacBio HiFi + Hi-C ||
 | *Nothobranchius furzeri* | African turquoise killifish | PacBio HiFi + Hi-C ||
