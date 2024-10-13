@@ -1,8 +1,13 @@
 # We also sequence these genomes from non-chondrichthyan taxa
 
-## Data Use Policies
+## Data Use Policy
 
-As forumated by the [Vertebrate Genomes Project (VGP)](https://genome10k.ucsc.edu/data-use-policies/), we genome asssembly producers hold the right to present the results of analyses using the unpublished genome assemblies listed below earlier than other parties. Please be sure to consult Shigehiro Kuraku if you are interested in using the genome assemblies listed below as 'in prep.'.
+Updated on October 13, 2024
+
+We release our sequence data upon reaching the stage of manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect other researchers to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached. Please be sure to consult Shigehiro Kuraku if you are interested in using the genome assemblies listed below as 'in prep.'.
+
+Unlike many genome sequencing consortia, our work is primarily supported by academic, discovery-driven grants, and we have limited personnel dedicated to data finalization and release.
+
 
 ## Non-chondrichthyan species chosen for whole genome sequencing by Squalomix
 
