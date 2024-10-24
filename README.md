@@ -6,7 +6,7 @@ Updated on October 13, 2024
 
 We release our sequence data upon reaching the stage of manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect other researchers to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached. Please be sure to consult Shigehiro Kuraku if you are interested in using the genome assemblies listed below as 'in prep.'.
 
-Unlike many genome sequencing consortia, our work is primarily supported by academic, discovery-driven grants, and we have limited personnel dedicated to data finalization and release.
+Unlike many other genome sequencing consortia, our work is primarily supported by academic, discovery-driven grants, and we have limited personnel dedicated to data finalization and release.
 
 
 ## Non-chondrichthyan species chosen for whole genome sequencing by Squalomix
