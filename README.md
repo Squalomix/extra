@@ -29,7 +29,7 @@ An improved chromosome-scale genome assembly will be produced by collaborating w
 
 ### Nothobranchius furzeri
 
-*Nothobranchius furzeri* is known as African turquoise killifish and is an excellent model organism for aging study, having the shortest captive lifespan among vertebrates and showing highly similar aging phenotypes to humans. In collaboration with [Prof. Tohru Ishitani at RIMD, Osaka University](http://www.biken.osaka-u.ac.jp/en/laboratories/detail/52), we are working for genome assembly improvement for this species, and the first product from this collaboration will be released soon from NCBI. 
+*Nothobranchius furzeri* is known as African turquoise killifish and is an excellent model organism for aging study, having the shortest captive lifespan among vertebrates and showing highly similar aging phenotypes to humans. In collaboration with [Prof. Tohru Ishitani at RIMD, Osaka University](http://www.biken.osaka-u.ac.jp/en/laboratories/detail/52), we are working for genome assembly improvement for this species, and the first product from this collaboration is available at NCBI ([GCA_043380555.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_043380555.1/). 
 
 ### Cololabis saira
 
