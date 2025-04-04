@@ -13,7 +13,7 @@ Unlike many other genome sequencing consortia, our work is primarily supported b
 
 Some comments about the status and details of the individual assemblies are included below the table.
 
-| Species |Common name|Technology|Publication|
+| Species |Common name|Technology|Publication or release detail|
 |----|----|----|----|
 | *Geotria australis* | pouched lamprey | illumina short read + mate-pair + Hi-C | in prep. |
 | *Mordacia mordax* | southern lamprey | illumina short read + mate-pair + Hi-C | in prep. |
