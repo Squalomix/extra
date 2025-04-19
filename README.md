@@ -21,7 +21,7 @@ Some comments about the status and details of the individual assemblies are incl
 | *Halichoeres trimaculatus*| Threespot wrasse| PacBio HiFi + Hi-C | [Nozu et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/gtc.13166)|
 | *Paroedura picta* | Madagascar ground gecko | PacBio HiFi + Hi-C | [GCA_049243985.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_049243985.1/)|
 | *Coturnix japonica* | Japanese quail | PacBio HiFi + Hi-C ||
-| *Nothobranchius furzeri* | African turquoise killifish | PacBio HiFi + Hi-C ||
+| *Nothobranchius furzeri* | African turquoise killifish | PacBio HiFi + Hi-C |[GCF_043380555.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_043380555.1/)|
 
 ### Coturnix japonica
 
