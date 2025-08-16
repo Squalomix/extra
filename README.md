@@ -25,7 +25,7 @@ Some comments about the status and details of the individual assemblies are incl
 
 ### Coturnix japonica
 
-An improved chromosome-scale genome assembly will be produced by collaborating with Prof. Nishijima at Avian Bioscience Research Center of Nagoya University who conducts [National BioResource Project (NBRP) for chicken and quail under MEXT, Japan](https://www.agr.nagoya-u.ac.jp/~nbrp/en/organiztion/index.html).
+An improved chromosome-scale genome assembly has been produced by collaborating with Prof. Nishijima at Avian Bioscience Research Center of Nagoya University who conducts [National BioResource Project (NBRP) for chicken and quail under MEXT, Japan](https://www.agr.nagoya-u.ac.jp/~nbrp/en/organiztion/index.html). It has been submitted to INSDC, and is being processed for public release.
 
 ### Nothobranchius furzeri
 
@@ -38,3 +38,7 @@ After our fundamental analysis on a non-phased assembly ([Sato et al., 2024](htt
 ### Geotria australis and Mordacia mordax
 
 We are preparing to publish our molecular evolutionary analyses using these assemblies, and the above-mentioned Data Use Policies strictly applies to them.
+
+### Paroedura picta
+
+To be filled soon.
