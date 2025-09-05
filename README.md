@@ -20,7 +20,7 @@ Some comments about the status and details of the individual assemblies are incl
 | *Cololabis saira* | Pacific saury | PacBio HiFi + Hi-C | [Sato et al., 2024](https://academic.oup.com/dnaresearch/article/31/2/dsae004/7623430) |
 | *Halichoeres trimaculatus*| Threespot wrasse| PacBio HiFi + Hi-C | [Nozu et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/gtc.13166)|
 | *Paroedura picta* | Madagascar ground gecko | PacBio HiFi + Hi-C | [GCA_049243985.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_049243985.1/)|
-| *Coturnix japonica* | Japanese quail | PacBio HiFi + Hi-C ||[PRJNA1306358](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1306358/)|
+| *Coturnix japonica* | Japanese quail | PacBio HiFi + Hi-C |[PRJNA1306358](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1306358/)|
 | *Nothobranchius furzeri* | African turquoise killifish | PacBio HiFi + Hi-C |[GCF_043380555.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_043380555.1/)|
 
 ### Coturnix japonica
