@@ -2,11 +2,11 @@
 
 ## Data Use Policy
 
-Updated on October 13, 2024
+Updated on September 10, 2025
 
 We release our sequence data upon reaching the stage of manuscript preparation based on the generated data. However, if required by funding agencies, we will release the data earlier. In either case, we expect other researchers to respect our right to first present and publish analyses using the data we generate and release. Exceptions to this policy will be considered when researchers contact us to coordinate collaborations prior to data presentation and a formal agreement for collaboration is reached. Please be sure to consult Shigehiro Kuraku if you are interested in using the genome assemblies listed below as 'in prep.'.
 
-Unlike many other genome sequencing consortia, our work is primarily supported by academic, discovery-driven grants, and we have limited personnel dedicated to data finalization and release.
+Unlike many other genome sequencing consortia, our work is primarily supported by academic, discovery-driven research grants, and we have limited personnel dedicated to data finalization and release.
 
 
 ## Non-chondrichthyan species chosen for whole genome sequencing by Squalomix
@@ -19,6 +19,7 @@ Some comments about the status and details of the individual assemblies are incl
 | *Mordacia mordax* | southern lamprey | illumina short read + mate-pair + Hi-C | in prep. |
 | *Cololabis saira* | Pacific saury | PacBio HiFi + Hi-C | [Sato et al., 2024](https://academic.oup.com/dnaresearch/article/31/2/dsae004/7623430) |
 | *Halichoeres trimaculatus*| Threespot wrasse| PacBio HiFi + Hi-C | [Nozu et al., 2024](https://onlinelibrary.wiley.com/doi/10.1111/gtc.13166)|
+| *Paroedura picta* | Madagascar ground gecko | PacBio HiFi + Hi-C | [GCA_049243985.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_049243985.1/)|
 | *Paroedura picta* | Madagascar ground gecko | PacBio HiFi + Hi-C | [GCA_049243985.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_049243985.1/)|
 | *Coturnix japonica* | Japanese quail | PacBio HiFi + Hi-C |[PRJNA1306358](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1306358/)|
 | *Nothobranchius furzeri* | African turquoise killifish | PacBio HiFi + Hi-C |[GCF_043380555.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_043380555.1/)|
@@ -41,4 +42,4 @@ We are preparing to publish our molecular evolutionary analyses using these asse
 
 ### Paroedura picta
 
-To be filled soon.
+Our initial effort with short-read sequencing resulted in its the first release of this species' genome assembly which however did not reach chromosome levels ([Hara et al., BME Biol 2018](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-018-0509-4); v1; GCA_003118565.1). Later we applied Hi-C scaffolding on the contigs obtained with the 10X Linked Reads technology, to achieve the chromosome scale ([Yamaguchi et al., Mol Ecol, 2021](https://onlinelibrary.wiley.com/doi/10.1111/mec.16146); v2; GCA_003118565.2). Most recently, we reused the Hi-C data to scaffold the contigs obtained with high-fidelity (HiFi) long-read sequencing (GCA_049243985.1). At the moment, [CRISPRdirect](https://crispr.dbcls.jp/) provides CRISPR/Cas guide RNA designing only on v1 and v2 genome assemblies.
